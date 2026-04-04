@@ -1,6 +1,6 @@
 An Android port of Seek's cool Deltarune Guess Who game.
 
-The Windows version also exists because of the Mineraft option.
+The Windows version also exists because of the Minecraft option.
 
 Here are the releases : [Releases](https://github.com/BNaise/Deltarune-Guess-Who-Android-port/releases)
 
