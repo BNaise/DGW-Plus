@@ -1,0 +1,60 @@
+event_inherited();
+
+view_set_camera(0, 0);
+
+global.spr_cards = spr_cards_minecraft;
+
+global.chara_names = [
+"Sheep",
+"Cow",
+"Pig",
+"Chicken",
+"Cat",
+"Horse",
+"Donkey",
+"Mooshroom",
+"Parrot",
+"Bat",
+"Rabbit",
+"Frog",
+"Axolotl",
+"Allay",
+"Armadillo",
+"Villager",
+"Wandering trader",
+"Copper Golem",
+"Happy Ghast",
+"Iron Golem",
+"Bee",
+"Wolf",
+"Goat",
+"Llama",
+"Panda",
+"Dolphin",
+"Pufferfish",
+"Piglin",
+"Enderman",
+"Spider",
+"Polar bear",
+"Zombie",
+"Skeleton",
+"Creeper",
+"Slime",
+"Pillager",
+"Witch",
+"Vex",
+"Silverfish",
+"Guardian",
+"Phantom",
+"Warden",
+"Wither",
+"Ghast",
+"Magma cube",
+"Blaze",
+"Breeze",
+"Hoglin",
+"Shulker",
+"Ender dragon"
+]
+
+room_goto(rm_game);

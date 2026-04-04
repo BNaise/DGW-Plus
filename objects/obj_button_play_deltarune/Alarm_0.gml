@@ -1,0 +1,60 @@
+event_inherited();
+
+view_set_camera(0, 0);
+
+global.spr_cards = spr_cards_deltarune;
+
+global.chara_names = [
+"Kris",
+"Susie",
+"Noelle",
+"Berdly",
+"Catti",
+"Jockington",
+"Rudy",
+"Carol",
+"Dess",
+"QC",
+"Toriel",
+"sans",
+"Undyne",
+"Alphys",
+"Asgore",
+"Alvin",
+"Bratty",
+"Catty",
+"Pizzapants",
+"Ralsei",
+"Lancer",
+"Seam",
+"Jevil",
+"The Original    Starwalker",
+"Rouxls Kaard",
+"King",
+"Queen",
+"Sweet",
+"Cap'n",
+"K_K",
+"Nubert",
+"Swatch",
+"Spamton",
+"Tasque Manager",
+"Mr. Tenna",
+"Lanino",
+"Elnina",
+"Ramb",
+"Shadow Mantle",
+"Shuttah",
+"Watercooler",
+"Roaring Knight",
+"Old Man",
+"Jackenstein",
+"Miss Mizzle",
+"Small Mike",
+"Pluey",
+"Cowboy Mike",
+"Forgotten Man",
+"Annoying Dog"
+];
+
+room_goto(rm_game);

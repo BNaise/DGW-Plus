@@ -1,0 +1,11 @@
+draw_self();
+
+draw_sprite_ext(global.spr_cards, global.rand_card_num, x + 5, y + 10, 3.65, 3.7, 0, c_white, 255);
+
+draw_set_font(fnt_main_small);
+
+draw_set_valign(fa_middle);
+draw_set_halign(fa_center);
+draw_text_ext_transformed(x, y - 160, "Your character: \n" + global.chara_names[global.rand_card_num], 40, 2000, 1, 1, 0);
+draw_set_valign(fa_top);
+draw_set_halign(fa_left);

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"button_manager_r",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"button_manager_r",
+  "parent":{
+    "name":"scripts",
+    "path":"folders/scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
