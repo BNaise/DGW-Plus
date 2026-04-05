@@ -6,3 +6,4 @@ Here are the releases : [Releases](https://github.com/BNaise/Deltarune-Guess-Who
 
 The Orignal Game:
 https://seeksstuff.itch.io/deltarune-guess-who
+
