@@ -1,6 +1,6 @@
 notes = "";
 
-//writable3 = false;
+writable3 = false;
 
 cursor2 = "_";
 

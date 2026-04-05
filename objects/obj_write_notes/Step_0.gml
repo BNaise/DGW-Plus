@@ -16,12 +16,17 @@ else {
 
 }
 
-//if (writable3 = false){
-	
-//	keyboard_virtual_hide();
-//	alarm_set(2, 1)
+if (os_type == os_android){
 
-//}
+	if (writable3 = false){
+	
+		keyboard_virtual_hide();
+		alarm_set(2, 1)
+
+	}
+
+}
+
 
 if (keyboard_check_pressed(vk_enter)){
 
