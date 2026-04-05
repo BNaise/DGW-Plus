@@ -11,7 +11,7 @@
   "option_windows_description_info":"A GameMaker Game",
   "option_windows_disable_sandbox":false,
   "option_windows_display_cursor":true,
-  "option_windows_display_name":"Deltarune Guess Who Android Port  v0.1.0",
+  "option_windows_display_name":"Deltarune Guess Who v.1.0.0-alpha",
   "option_windows_enable_steam":false,
   "option_windows_executable_name":"${project_name}.exe",
   "option_windows_icon":"${options_dir}/windows/icons/icon.ico",
