@@ -7,3 +7,5 @@ Here are the releases : [Releases](https://github.com/BNaise/Deltarune-Guess-Who
 The Orignal Game:
 https://seeksstuff.itch.io/deltarune-guess-who
 
+Resource pack that I stole the Minecraft mobs textures from :
+https://modrinth.com/resourcepack/spawned-eggs
