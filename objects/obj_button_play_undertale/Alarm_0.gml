@@ -1,0 +1,60 @@
+event_inherited();
+
+view_set_camera(0, 0);
+
+global.spr_cards = spr_cards_undertale;
+
+global.chara_names = [
+"Frisk",
+"Chara",
+"Flowey",
+"Torial",
+"Asgore",
+"Asrial",
+"Froggit",
+"Loox",
+"Whimsun",
+"Napstablook",
+"Vegetoid",
+"Sans",
+"Papyrus",
+"Snowdrake",
+"Chilldrake",
+"Ice cap",
+"Snowman",
+"Doggo",
+"Lesser Dog",
+"Greater Dog",
+"Gyftrot",
+"Monster Kid",
+"Undyne",
+"Such a mystery, man",
+"Loren",
+"Bird that carries you over a disproportionately small gap",
+"Aaron",
+"Woshua",
+"Temmie",
+"Ragel",
+"Shyren",
+"Mad Dummy",
+"Alphys",
+"Mettaton",
+"Tsunderplane",
+"Vulkin",
+"Pyrope",
+"Heats Flamesman",
+"So Sorry",
+"Muffet",
+"Bratty",
+"Catty",
+"Ficus Licker",
+"Burgerpants",
+"Memoryhead",
+"Reaper Bird",
+"Endogeny",
+"Lemon Bread",
+"Snowdrake's Mother",
+"Annoying Dog"
+]
+
+room_goto(rm_game);

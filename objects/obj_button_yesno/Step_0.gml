@@ -12,11 +12,7 @@ if (global.player_card_pressed){
 			
 			global.reroll = true;
 			
-			obj_card_parent.clicked = false;
-			button_manager();
-			
 			audio_play_sound(snd_select, 0, 0, global.volume, undefined, 1.0);
-			
 	
 		}
 

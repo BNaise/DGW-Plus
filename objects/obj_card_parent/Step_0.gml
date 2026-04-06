@@ -17,6 +17,25 @@ if (global.in_notes = false){
 	
 	}
 	
+	if (global.reset && clicked = true){
+		
+		button_manager();
+		clicked = false;
+	
+	}
+	
+	if (global.toggle && clicked = true){
+	
+		button_manager();
+		clicked = false;
+
+	} else if (global.toggle && clicked = false){
+	
+		button_manager();
+		clicked = true;
+
+	}
+	
 	if (keyboard_check_pressed(vk_tab) && clicked = true){
 	
 		button_manager();
