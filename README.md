@@ -10,7 +10,9 @@ https://seeksstuff.itch.io/deltarune-guess-who
 Resource pack that I stole the Minecraft mobs textures from :
 https://modrinth.com/resourcepack/spawned-eggs
 
-For Custom Games (Does not work on Android):
+__________________________________________________________________________________________________
+
+**For Custom Games (Does not work on Android):**
 
 Go to : "Chosen save destination"\DGW Plus v1.0.0\custom_games\custom_game_(Number)
 
