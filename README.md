@@ -1,6 +1,4 @@
-An Android port of Seek's cool Deltarune Guess Who game.
-
-The Windows version also exists because of the Minecraft option.
+Seek's cool Deltarune Guess Who game with some additional features. (and works with android)
 
 Here are the releases : [Releases](https://github.com/BNaise/DGW-Plus/releases)
 
