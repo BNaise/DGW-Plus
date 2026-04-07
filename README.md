@@ -16,4 +16,4 @@ ________________________________________________________________________________
 
 Go to : "Chosen save destination"\DGW Plus v1.0.0\custom_games\custom_game_(Number)
 
-To change the names change the names.json file and to change sprites change spr_cards_custom_strip50.png file (Each character should be 40 x 64, sometimes it works with different size though but they all should be the same size)
+To change the names change the "names.json" file and to change sprites change "spr_cards_custom_strip50.png" file (Each character should be 40 x 64, sometimes it works with different size though but they all should be the same size)
