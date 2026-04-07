@@ -16,6 +16,8 @@ if (os_type == os_android){
 		if (point_in_rectangle(mouse_x, mouse_y, room_width/2 - 300, room_height/2 - 25, room_width/2 + 300, room_height/2 + 25)){
 		
 			keyboard_virtual_show(kbv_type_default, kbv_returnkey_default, kbv_autocapitalize_none, false);
+			view_set_visible(0, 0);
+			view_set_visible(1, 1);
 			writable = true;
 		
 		

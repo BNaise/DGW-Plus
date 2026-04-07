@@ -1,7 +1,5 @@
 event_inherited();
 
-view_set_camera(0, 0);
-
 global.spr_cards = spr_cards_undertale;
 
 global.chara_names = [
@@ -55,6 +53,6 @@ global.chara_names = [
 "Lemon Bread",
 "Snowdrake's Mother",
 "Annoying Dog"
-]
+];
 
 room_goto(rm_game);

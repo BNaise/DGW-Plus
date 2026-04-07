@@ -1,11 +1,15 @@
-/// @DnDAction : YoYo Games.Instances.Inherit_Event
-/// @DnDVersion : 1
-/// @DnDHash : 27875303
 event_inherited();
 
-/// @DnDAction : YoYo Games.Rooms.Go_To_Room
-/// @DnDVersion : 1
-/// @DnDHash : 2D7530AB
-/// @DnDArgument : "room" "rm_menu"
-/// @DnDSaveInfo : "room" "rm_menu"
-room_goto(rm_menu);
+if (global.custom_game){
+
+	room_goto(rm_ask_custom_game);
+
+} 
+
+if (global.custom_game == false){
+
+	room_goto(go_back_to);
+
+}
+
+global.custom_game = false;

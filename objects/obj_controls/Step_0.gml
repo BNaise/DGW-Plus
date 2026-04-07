@@ -19,15 +19,21 @@ if (keyboard_check_pressed(vk_f5)){
 
 }
 
-if (keyboard_check_pressed(vk_subtract)){
+if (keyboard_check_pressed(vk_subtract) && global.volume >= 0.1){
 
 	global.volume -= 0.1;
+	volume_value -= 10;
+	show_volume = true;
+	alarm_set(0, 30);
 	audio_play_sound(snd_noice, 0, 0, global.volume, undefined, 1.0);
 	
 }
 else if (keyboard_check_pressed(vk_add)){
 
 	global.volume += 0.1;
+	volume_value += 10;
+	show_volume = true;
+	alarm_set(0, 30);
 	audio_play_sound(snd_noice, 0, 0, global.volume, undefined, 1.0);
 	
 }

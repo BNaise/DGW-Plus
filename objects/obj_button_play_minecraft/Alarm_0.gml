@@ -1,7 +1,5 @@
 event_inherited();
 
-view_set_camera(0, 0);
-
 global.spr_cards = spr_cards_minecraft;
 
 global.chara_names = [
@@ -55,6 +53,6 @@ global.chara_names = [
 "Hoglin",
 "Shulker",
 "Ender dragon"
-]
+];
 
 room_goto(rm_game);

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"keyboard_closer",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"keyboard_closer",
+  "parent":{
+    "name":"scripts",
+    "path":"folders/scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
