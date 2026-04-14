@@ -10,7 +10,7 @@ function button_manager_r(){
 		
 		spr_alpha = 0.6;
 		
-		spr_alpha4 = 255;
+		spr_alpha4 = 1;
 		
 	}
 	else{

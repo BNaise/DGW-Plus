@@ -1,12 +1,44 @@
+if (animate){
+
+	image_yscale = lerp(image_yscale, y_scale_finish, interpolation);
+	
+	image_xscale = lerp(image_xscale, x_scale_finish, interpolation);
+	
+	sprite_x_scale = lerp(sprite_x_scale, sprite_x_scale_finish, interpolation);
+	sprite_y_scale = lerp(sprite_y_scale, sprite_y_scale_finish, interpolation);
+
+}
+
 if (mouse_check_button_pressed(mb_left)){
 
 	mouse_pressed = true;
-
+	
 } else if (mouse_check_button_released(mb_left)){
 
 	mouse_pressed = false;
 
 }
+
+//if (!point_in_rectangle(mouse_x, mouse_y, x - 30, y - 49, x + 30, y + 49)){
+	
+//	while (image_yscale != y_scale_finish){
+		
+//		image_yscale = lerp(image_yscale, y_scale_finish, interpolation);
+		
+//	}
+	
+//}
+
+//if (!mouse_pressed){
+
+
+//	while (image_yscale != y_scale_finish){
+		
+//		image_yscale = lerp(image_yscale, y_scale_finish, interpolation);
+		
+//	}
+
+//}
 
 if (global.in_notes = false){
 	

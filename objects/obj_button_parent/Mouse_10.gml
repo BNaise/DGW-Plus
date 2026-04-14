@@ -1,6 +1,5 @@
 window_set_cursor(cr_handpoint);
 
-image_blend = $FF1EFFF3 & $ffffff;
-image_alpha = ($FF1EFFF3 >> 24) / $ff;
+button_color = c_yellow;
 
-image_alpha = 0.6;
+image_blend = button_color;

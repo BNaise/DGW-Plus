@@ -5,8 +5,16 @@ function button_manager(){
 		clicked = true;
 
 		//audio_play_sound(snd_noice, 0, 0, global.volume, undefined, 1.0);
-
-		y = ystart + 4;
+		
+		image_yscale = y_scale_start;
+		
+		image_xscale = x_scale_start;
+		
+		sprite_x_scale = sprite_x_scale_start;
+		
+		sprite_y_scale = sprite_y_scale_start;
+		
+		animate = false;
 		
 		color = c_grey;
 		
@@ -22,8 +30,8 @@ function button_manager(){
 		clicked = false;
 
 		//audio_play_sound(snd_noice, 0, 0, global.volume, undefined, 1.0);
-
-		y = ystart;
+		
+		animate = true;
 		
 		color = c_white;
 		

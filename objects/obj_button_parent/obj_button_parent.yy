@@ -32,6 +32,7 @@
   "properties":[
     {"$GMObjectProperty":"v2","%Name":"button_text","filters":[],"listItems":[],"multiselect":false,"name":"button_text","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"","varType":2,},
     {"$GMObjectProperty":"v2","%Name":"button_font","filters":[],"listItems":[],"multiselect":false,"name":"button_font","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"fnt_main","path":"fonts/fnt_main/fnt_main.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"fnt_main","varType":5,},
+    {"$GMObjectProperty":"v2","%Name":"button_color","filters":[],"listItems":[],"multiselect":false,"name":"button_color","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"c_white","varType":7,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",

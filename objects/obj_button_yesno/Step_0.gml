@@ -10,6 +10,7 @@ if (global.player_card_pressed){
 			
 			global.player_card_pressed = false;
 			
+			obj_player_card.dicition = global.rand_card_num;
 			global.reroll = true;
 			
 			audio_play_sound(snd_select, 0, 0, global.volume, undefined, 1.0);

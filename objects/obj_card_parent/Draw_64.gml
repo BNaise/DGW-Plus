@@ -2,7 +2,7 @@ if (point_in_rectangle(mouse_x, mouse_y, x - 27, y - 47, x + 27, y + 47)){
 	
 	draw_set_font(fnt_small);
 	var xx = x;
-    var yy = y - (sprite_height / 2) - 17;
+    var yy = y - 66;
     var margin = 6;
     var textW = string_width(global.chara_names[card_num]);
     var textH = string_height(global.chara_names[card_num]);
