@@ -19,27 +19,6 @@ if (mouse_check_button_pressed(mb_left)){
 
 }
 
-//if (!point_in_rectangle(mouse_x, mouse_y, x - 30, y - 49, x + 30, y + 49)){
-	
-//	while (image_yscale != y_scale_finish){
-		
-//		image_yscale = lerp(image_yscale, y_scale_finish, interpolation);
-		
-//	}
-	
-//}
-
-//if (!mouse_pressed){
-
-
-//	while (image_yscale != y_scale_finish){
-		
-//		image_yscale = lerp(image_yscale, y_scale_finish, interpolation);
-		
-//	}
-
-//}
-
 if (global.in_notes = false){
 	
 	if (keyboard_check_pressed(ord("R")) && clicked = true){
