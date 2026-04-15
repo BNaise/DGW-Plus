@@ -26,7 +26,7 @@ global.chara_names = [
 "Gyftrot",
 "Monster Kid",
 "Undyne",
-"Such a mystery, man",
+"Mystery man",
 "Loren",
 "Bird that carries you over a disproportionately small gap",
 "Aaron",
