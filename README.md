@@ -15,7 +15,7 @@ ________________________________________________________________________________
 First open the game then close the game and then press Windows key + R and type %localappdata% it will open
 windows explorer.
 
-Then navigate to folder named Deltarune_Guess_Who
+Then navigate to folder named DGW_Plus
 
 Then goto custom_games\custom_game_(number of which custom game you want) then follow the following:
 
@@ -26,7 +26,7 @@ ________________________________________________________________________________
 
 **For Custom Games (1.1.2 or lower): (This feature does not work on Android)**
 
-Go to : "Chosen save destination"\DGW Plus v1.0.0\custom_games\custom_game_(number of which custom game you want)
+Go to : "Chosen save destination"\DGW Plus (version)\custom_games\custom_game_(number of which custom game you want)
 
 Then follow the following:
 
