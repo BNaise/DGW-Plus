@@ -4,21 +4,21 @@ An enhanced version of Deltarune Guess Who with support for custom games, multip
 
 ---
 
-# Download:
+### Download:
 
 Get the latest version here:
 👉 https://github.com/BNaise/DGW-Plus/releases
 
 ---
 
-# Original Game:
+### Original Game:
 
 Based on:
 https://seeksstuff.itch.io/deltarune-guess-who
 
 ---
 
-# Features:
+### Features:
 
 - Android support
 - Multiple character sets (Deltarune, Undertale, Minecraft)
@@ -28,18 +28,18 @@ https://seeksstuff.itch.io/deltarune-guess-who
 
 ---
 
-# Minecraft mob textures from:
+### Minecraft mob textures from:
   https://modrinth.com/resourcepack/spawned-eggs
 
 ---
 
-# Custom Games:
+### Custom Games:
 
 «⚠️ Custom games are not supported on Android»
 
 ---
 
-# For Version 1.2.0 or Higher:
+#### For Version 1.2.0 or Higher:
 
 1. Open the game once, then close it
 2. Press "Win + R" and type:
@@ -47,12 +47,12 @@ https://seeksstuff.itch.io/deltarune-guess-who
 3. Navigate to:
    DGW_Plus/custom_games/custom_game_(number)
 
-# Editing:
+#### Editing:
 
 - Character names: edit "names.json"
 - Sprites: replace "spr_cards_custom_strip50.png"
 
-# Sprite Requirements:
+#### Sprite Requirements:
 
 - Each character: 40 × 64 pixels
 - Full strip: 2000 × 64 pixels (50 characters)
@@ -62,7 +62,7 @@ https://seeksstuff.itch.io/deltarune-guess-who
 
 ---
 
-# For Version 1.1.2 or Lower:
+#### For Version 1.1.2 or Lower:
 
 Go to:
 
@@ -72,7 +72,7 @@ Then follow the same editing steps as above.
 
 ---
 
-# Screenshots:
+### Screenshots:
 
 ![Screenshot_2026-04-07-22-06-28-37_627e9759d9ded693404670836f38acf6](https://github.com/user-attachments/assets/8071a1e7-c049-4215-a657-7f0a2565c67f)
 
