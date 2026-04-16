@@ -80,7 +80,7 @@ Then follow the same editing steps as above.
 
 ![Screenshot_2026-04-07-22-23-50-50_627e9759d9ded693404670836f38acf6](https://github.com/user-attachments/assets/c4238ec7-2385-4f72-b200-ec14fc8fe560)
 
-<img width="1604" height="720" alt="Test" src="https://ibb.co/Y4k9xV8g" />
+<img alt="Test" src="https://ibb.co/Y4k9xV8g" />
 
 ![1000177369](https://github.com/user-attachments/assets/6a90a87c-d3f6-4b3c-9727-6f04418bd42d)
 
