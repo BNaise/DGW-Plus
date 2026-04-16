@@ -10,11 +10,29 @@ https://modrinth.com/resourcepack/spawned-eggs
 
 __________________________________________________________________________________________________
 
-**For Custom Games (Does not work on Android):**
+**For Custom Games (1.2.0 or higher): (This feature does not work on Android)**
 
-Go to : "Chosen save destination"\DGW Plus v1.0.0\custom_games\custom_game_(Number)
+First open the game then close the game and then press Windows key + R and type %localappdata% it will open
+windows explorer.
 
-To change the names change the "names.json" file and to change sprites change "spr_cards_custom_strip50.png" file (Each character should be 40 x 64, sometimes it works with different size though but they all should be the same size)
+Then navigate to folder named Deltarune_Guess_Who
+
+Then goto custom_games\custom_game_(number of which custom game you want) then follow the following:
+
+To change the names of the characters change the "names.json" file and to change the sprites change "spr_cards_custom_strip50.png" file (Each character should be 40 x 64 which means a animation strip of 2000 x 64, sometimes it works with different size though but they all should be the same size).
+
+Do not change the names of these files only the contents inside.
+___________________________________________________________________________________
+
+**For Custom Games (1.1.2 or lower): (This feature does not work on Android)**
+
+Go to : "Chosen save destination"\DGW Plus v1.0.0\custom_games\custom_game_(number of which custom game you want)
+
+Then follow the following:
+
+To change the names of the characters change the "names.json" file and to change the sprites change "spr_cards_custom_strip50.png" file (Each character should be 40 x 64 which means a animation strip of 2000 x 64, sometimes it works with different size though but they all should be the same size).
+
+Do not change the names of these files only the contents inside.
 
 _________________________________________
 Pictures:
