@@ -92,7 +92,7 @@ Then follow the same editing steps as above.
 
 ---
 
-Notes:
+### Notes:
 
 - Custom games currently do not work on Android
 - More music options and features are planned
