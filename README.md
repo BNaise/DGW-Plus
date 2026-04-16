@@ -1,12 +1,9 @@
-Seek's cool Deltarune Guess Who game with some additional features like :
+An enhanced version of Deltarune Guess Who with extra features:
 
-1. Supports Android.
-
-2. Has Undertale and Minecraft (Minecraft because my doesn't know anything about Deltarune)
-
-3. Has custom games support (This doesn't work with Android unfortunately).
-
-4. Has music which you can change or not have one at all (currently only four options available but more will be added soon).
+- Android support
+- Multiple character sets, including Undertale and Minecraft
+- Custom game support (not available on Android)
+- Adjustable background music (more options coming soon)
 
 Here are the releases : [Releases](https://github.com/BNaise/DGW-Plus/releases)
 
