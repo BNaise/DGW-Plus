@@ -1,6 +1,6 @@
 if (obj_button_choose.choice == true){
 
-	audio_play_sound(snd_noice, 0, 0, global.volume, undefined, 1.0);
+	audio_play_sound(snd_noice, 0, 0, 0.5, undefined, 1.0);
 	obj_button_choose.choice = false;
 	
 	if (point_in_rectangle(mouse_x, mouse_y, x - 30, y - 49, x + 30, y + 490)){
@@ -15,6 +15,6 @@ if (obj_button_choose.choice == true){
 
 	button_manager();
 
-	audio_play_sound(snd_noice, 0, 0, global.volume, undefined, 1.0);
+	audio_play_sound(snd_noice, 0, 0, 0.5, undefined, 1.0);
 
 }

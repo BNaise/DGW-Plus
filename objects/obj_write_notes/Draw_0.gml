@@ -3,7 +3,7 @@ draw_self();
 draw_set_halign(fa_left);
 draw_set_valign(fa_top);
 draw_set_colour(c_white);
-draw_set_font(fnt_small_gaped);
+draw_set_font(obj_controls.font_small_gaped);
 
 draw_text_ext_transformed(x, y, notes + cursor2, 30, 2000, 1, 1, 0);
 

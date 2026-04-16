@@ -1,18 +1,14 @@
-if(clicked3 == false){
+if(state == 0){
 		
-		clicked3 = true;
+		state = 1;
 
 		audio_play_sound(snd_wrong, 0, 0, global.volume, undefined, 1.0);
-		
-		sprite1 = spr_heart_1;
 		
 	}
 	else{
 		
-		clicked3 = false;
+		state = 0;
 
 		audio_play_sound(snd_grant, 0, 0, global.volume, undefined, 1.0);
-		
-		sprite1 = spr_heart_0;
 		
 	}

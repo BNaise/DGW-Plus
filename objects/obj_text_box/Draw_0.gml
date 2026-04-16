@@ -2,13 +2,13 @@
 draw_set_halign(fa_left);
 draw_set_valign(fa_top);
 draw_set_colour(c_white);
-draw_set_font(fnt_main);
+draw_set_font(fnt_utdr_main);
 
 draw_text_ext_transformed(room_width/2 - 300 + 25, room_height/2 - 25, global.name + cursor, 100, 2000, 1, 1, 0);
 
 if (os_type == os_android){
 	
-	draw_set_font(fnt_main_small);
+	draw_set_font(fnt_utdr_main_small);
 	draw_text_ext_transformed(room_width/2 - 300 - 340, room_height/2 - 25, "Click here to enter ->", 100, 2000, 1, 1, 0);
 	
 	if (mouse_check_button_released(mb_left)){

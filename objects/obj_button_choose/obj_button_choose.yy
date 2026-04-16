@@ -10,7 +10,7 @@
   "name":"obj_button_choose",
   "overriddenProperties":[
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_button_parent","path":"objects/obj_button_parent/obj_button_parent.yy",},"propertyId":{"name":"button_text","path":"objects/obj_button_parent/obj_button_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Choose\\nyour charcter",},
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_button_parent","path":"objects/obj_button_parent/obj_button_parent.yy",},"propertyId":{"name":"button_font","path":"objects/obj_button_parent/obj_button_parent.yy",},"resource":{"name":"fnt_small","path":"fonts/fnt_small/fnt_small.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"fnt_small",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_button_parent","path":"objects/obj_button_parent/obj_button_parent.yy",},"propertyId":{"name":"button_font","path":"objects/obj_button_parent/obj_button_parent.yy",},"resource":{"name":"fnt_utdr_small","path":"fonts/fnt_utdr_small/fnt_utdr_small.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"fnt_utdr_small",},
   ],
   "parent":{
     "name":"buttons",

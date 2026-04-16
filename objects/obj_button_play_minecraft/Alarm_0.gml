@@ -2,6 +2,10 @@ event_inherited();
 
 global.spr_cards = spr_cards_minecraft;
 
+obj_controls.font_much_small = fnt_mc_much_small;
+obj_controls.font_main_small = fnt_mc_main_small;
+obj_controls.font_small_gaped = fnt_mc_small_gaped;
+
 global.chara_names = [
 "Sheep",
 "Cow",

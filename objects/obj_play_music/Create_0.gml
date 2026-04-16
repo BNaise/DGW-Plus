@@ -1,0 +1,1 @@
+obj_music.play_music = true;

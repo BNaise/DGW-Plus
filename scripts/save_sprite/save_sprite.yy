@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"save_sprite",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"save_sprite",
+  "parent":{
+    "name":"scripts",
+    "path":"folders/scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
