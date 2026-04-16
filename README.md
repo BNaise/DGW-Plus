@@ -2,8 +2,6 @@ DGW Plus
 
 An enhanced version of Deltarune Guess Who with support for custom games, multiple character sets, and Android devices.
 
-Create your own Guess Who-style experiences with custom characters, sprites, and music.
-
 ---
 
 Download:
@@ -98,3 +96,5 @@ Notes:
 
 - Custom games currently do not work on Android
 - More music options and features are planned
+
+(Yes I had ChatGPT write this but I did change some things ok!)
