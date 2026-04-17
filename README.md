@@ -74,21 +74,25 @@ Then follow the same editing steps as above.
 
 ### Screenshots:
 
-![Screenshot_2026-04-07-22-06-28-37_627e9759d9ded693404670836f38acf6](https://github.com/user-attachments/assets/8071a1e7-c049-4215-a657-7f0a2565c67f)
+<img width="1604" height="720" alt="Screenshot_2026-04-17-20-29-48-56_dbc5b6d4d80a01f453c593207704cc47" src="https://github.com/user-attachments/assets/ea0ac9c4-5a23-4c0a-ac65-09958fd8fec8" />
 
-![Screenshot_2026-04-07-22-06-36-84_627e9759d9ded693404670836f38acf6](https://github.com/user-attachments/assets/14f76f5a-8b00-4287-91d4-cda417d75759)
+<img width="1604" height="720" alt="Screenshot_2026-04-17-20-29-37-86_dbc5b6d4d80a01f453c593207704cc47" src="https://github.com/user-attachments/assets/85602d5c-d86d-4be9-99f4-6f89a60be8bd" />
 
-![Screenshot_2026-04-07-22-23-50-50_627e9759d9ded693404670836f38acf6](https://github.com/user-attachments/assets/c4238ec7-2385-4f72-b200-ec14fc8fe560)
+<img width="1604" height="720" alt="Screenshot_2026-04-17-20-29-11-29_dbc5b6d4d80a01f453c593207704cc47" src="https://github.com/user-attachments/assets/6aea2131-9af2-4493-a489-6b1bf6de7eac" />
 
-<img alt="Test" src="https://ibb.co/Y4k9xV8g" />
+<img width="1604" height="720" alt="Screenshot_2026-04-17-20-28-20-77_dbc5b6d4d80a01f453c593207704cc47" src="https://github.com/user-attachments/assets/77c055b5-1e96-4165-83ad-0fe26091f184" />
 
-![1000177369](https://github.com/user-attachments/assets/6a90a87c-d3f6-4b3c-9727-6f04418bd42d)
+<img width="1604" height="720" alt="Screenshot_2026-04-17-20-28-00-41_dbc5b6d4d80a01f453c593207704cc47" src="https://github.com/user-attachments/assets/9ccfeda0-eb77-4125-a8fd-12631492ef98" />
 
-![1000177368](https://github.com/user-attachments/assets/aea32e53-533c-4f0a-a80d-9acbe41892c1)
+<img width="1604" height="720" alt="Screenshot_2026-04-17-20-27-41-14_dbc5b6d4d80a01f453c593207704cc47" src="https://github.com/user-attachments/assets/609ffb42-6d13-4c82-9ebd-282247713be1" />
 
-![1000177367](https://github.com/user-attachments/assets/02b080ca-baac-4f65-84d8-32b6141d3eda)
+<img width="1604" height="720" alt="Screenshot_2026-04-17-20-27-30-65_dbc5b6d4d80a01f453c593207704cc47" src="https://github.com/user-attachments/assets/e0148167-db95-4843-8eca-f4b3ea664a72" />
 
-![1000177366](https://github.com/user-attachments/assets/d2470f53-ab78-4cf7-9f73-fbb9a09486b3)
+<img width="1604" height="720" alt="Screenshot_2026-04-17-20-27-21-87_dbc5b6d4d80a01f453c593207704cc47" src="https://github.com/user-attachments/assets/19576e2a-41b9-46dc-af3b-c5a17b1eba33" />
+
+<img width="1604" height="720" alt="Screenshot_2026-04-17-20-26-41-98_dbc5b6d4d80a01f453c593207704cc47" src="https://github.com/user-attachments/assets/1c496998-59cb-463f-be6a-96d90ddb275c" />
+
+<img width="1604" height="720" alt="Screenshot_2026-04-17-20-26-24-61_dbc5b6d4d80a01f453c593207704cc47" src="https://github.com/user-attachments/assets/b6c66d1e-daff-4cf9-bcc8-0394cc601388" />
 
 ---
 
