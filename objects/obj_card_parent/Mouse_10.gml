@@ -1,9 +1,15 @@
 window_set_cursor(cr_handpoint);
 
 if (mouse_pressed == true && obj_button_choose.choice == false){
-
+	
+	if (highlighted){
+	
+		button_manager_r();
+	
+	};
+	
 	button_manager();
-	audio_play_sound(snd_noice, 0, 0, global.volume, undefined, 1.0);
+	audio_play_sound(snd_noice, 0, 0, global.default_volume, undefined, 1.0);
 
 }
 

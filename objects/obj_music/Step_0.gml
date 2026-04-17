@@ -8,7 +8,7 @@ if (play_music){
 	
 	if (!global.no_music){
 	
-		audio_play_sound(global.music, 0, true, 0.5, undefined, 1.0);
+		audio_play_sound(global.music, 0, true, global.default_volume, undefined, 1.0);
 	
 	};
 	

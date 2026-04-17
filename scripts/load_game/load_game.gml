@@ -4,7 +4,7 @@ function load_game(){
 
 	global.volume = ini_read_real("options", "volume", 0.5);
 	
-	global.music = ini_read_string("options", "music", 4);
+	global.music = ini_read_string("options", "music", 5);
 	
 	global.name = ini_read_string("options", "name", "");
 	

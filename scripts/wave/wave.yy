@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"wave",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"wave",
+  "parent":{
+    "name":"scripts",
+    "path":"folders/scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -29,7 +29,7 @@ if (current_room == rm_nameing){
 	
 	}
 
-} else {
+} else if (!global.in_notes) {
 
 	if (keyboard_check_pressed(vk_subtract) && global.volume >= 0.1){
 

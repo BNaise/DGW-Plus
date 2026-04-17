@@ -3,18 +3,10 @@ function button_manager(){
 	if(clicked == false){
 		
 		clicked = true;
-
-		//audio_play_sound(snd_noice, 0, 0, global.volume, undefined, 1.0);
 		
-		image_yscale = y_scale_start;
+		animate_2 = true;
 		
-		image_xscale = x_scale_start;
-		
-		sprite_x_scale = sprite_x_scale_start;
-		
-		sprite_y_scale = sprite_y_scale_start;
-		
-		animate = false;
+		animate_1 = false;
 		
 		color = c_grey;
 		
@@ -28,10 +20,10 @@ function button_manager(){
 	else{
 		
 		clicked = false;
-
-		//audio_play_sound(snd_noice, 0, 0, global.volume, undefined, 1.0);
 		
-		animate = true;
+		animate_1 = true;
+		
+		animate_2 = false;
 		
 		color = c_white;
 		

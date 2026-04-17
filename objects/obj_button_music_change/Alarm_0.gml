@@ -10,15 +10,23 @@ switch (button_no){
 	break;
 	
 	case 1:
-	global.music = mus_checkers;
-	break;
-	
-	case 2:
 	global.music = mus_battle;
 	break;
 	
+	case 2:
+	global.music = mus_checkers;
+	break;
+	
 	case 3:
+	global.music = mus_acid_tunnel;
+	break;
+	
+	case 4:
 	global.music = mus_battle_vapor;
+	break;
+	
+	case 5:
+	global.music = mus_raise_up_your_bat;
 	break;
 
 }

@@ -1,6 +1,10 @@
 fullscreen = false;
 
+global.default_volume = 0.5;
+
 global.custom_game = false;
+
+global.in_notes = false;
 
 load_game();
 

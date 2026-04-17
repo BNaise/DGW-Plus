@@ -1,27 +1,27 @@
 function button_manager_r(){
 	
-	if(highlighted == false){
+	if(highlighted == false  && clicked == false){
 		
 		highlighted = true;
-
-		audio_play_sound(snd_noice, 0, 0, global.volume, undefined, 1.0);
+		
+		animate_3 = true;
 		
 		image_blend = c_yellow;
-		
-		spr_alpha = 0.6;
 		
 		spr_alpha4 = 1;
 		
 	}
-	else{
+	else if(highlighted && clicked == false){
 		
 		highlighted = false;
-
-		audio_play_sound(snd_noice, 0, 0, global.volume, undefined, 1.0);
+		
+		animate_3 = false;
 		
 		image_blend = c_white;
 		
-		spr_alpha = 255;
+		image_alpha = 1;
+		
+		spr_alpha = 1;
 		
 		spr_alpha4 = 0;
 	}

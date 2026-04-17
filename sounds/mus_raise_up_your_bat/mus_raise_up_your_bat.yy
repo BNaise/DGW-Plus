@@ -1,6 +1,6 @@
 {
   "$GMSound":"v2",
-  "%Name":"mus_tvtime",
+  "%Name":"mus_raise_up_your_bat",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -10,9 +10,9 @@
   "compression":1,
   "compressionQuality":4,
   "conversionMode":0,
-  "duration":32.84211,
+  "duration":174.26086,
   "exportDir":"",
-  "name":"mus_tvtime",
+  "name":"mus_raise_up_your_bat",
   "parent":{
     "name":"music",
     "path":"folders/assets/music.yy",
@@ -21,6 +21,6 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"mus_tvtime.ogg",
+  "soundFile":"mus_raise_up_your_bat.ogg",
   "volume":1.0,
 }
