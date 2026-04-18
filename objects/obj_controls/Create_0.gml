@@ -1,5 +1,9 @@
 fullscreen = false;
 
+escape = false;
+
+show_quitting = false;
+
 global.default_volume = 0.5;
 
 global.custom_game = false;

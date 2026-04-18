@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"volume_down",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"volume_down",
+  "parent":{
+    "name":"scripts",
+    "path":"folders/scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

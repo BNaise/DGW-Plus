@@ -10,7 +10,7 @@
   "compression":1,
   "compressionQuality":4,
   "conversionMode":0,
-  "duration":174.26086,
+  "duration":113.940315,
   "exportDir":"",
   "name":"mus_raise_up_your_bat",
   "parent":{

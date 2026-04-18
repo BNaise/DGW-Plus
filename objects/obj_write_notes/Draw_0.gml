@@ -13,28 +13,22 @@ if (os_type == os_android){
 	
 		if (mouse_check_button_released(mb_left)){
 
-			if (point_in_rectangle(mouse_x, mouse_y, 1373, 96, 2722, 757)){
+			if (point_in_rectangle(mouse_x, mouse_y, 1398, 152, 2720, 761)){
 		
 				keyboard_virtual_show(kbv_type_ascii, kbv_returnkey_go, kbv_autocapitalize_none, false);
-				view_set_visible(0, 0);
-				if (how_many_bn >= 3 && how_many_bn < 7){
-	
-					view_set_yport(1, 0 - (how_many_bn * 20));
-	
-				}
-				if (how_many_bn >= 7 && how_many_bn <= 20){
-	
-					view_set_yport(1, 0 - (how_many_bn * 40));
-	
-				}
+				
 				writable3 = true;
 				alarm_set(0, 30);
+				
+				shift_notes();
 		
-			}	else{
+			}
+			else{
 
 				writable3 = false;
 				keyboard_closer();
-				}
+				
+			}
 
 		}
 	

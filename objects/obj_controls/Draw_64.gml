@@ -22,3 +22,11 @@ if (show_volume){
 	draw_set_valign(fa_top);
 
 }
+
+if (show_quitting){
+	
+	draw_set_font(fnt_utdr_main);
+	draw_sprite_ext(spr_info_box, 0, 169, 70, 15, 4.5, 0, c_white, 1);
+	draw_text(66, 43, "Quitting...");
+
+}

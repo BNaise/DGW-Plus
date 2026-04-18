@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"shift_notes",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"shift_notes",
+  "parent":{
+    "name":"scripts",
+    "path":"folders/scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

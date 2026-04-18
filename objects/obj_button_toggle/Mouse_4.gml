@@ -4,4 +4,8 @@ y = ystart + 4;
 
 alarm_set(0, 10);
 
-audio_play_sound(snd_noice, 0, 0, global.volume, undefined, 1.0);
+audio_play_sound(snd_noice, 0, 0, global.default_volume, undefined, 1.0);
+
+toggle = true;
+
+alarm_set(1, 1);

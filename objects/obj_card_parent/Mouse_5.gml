@@ -1,7 +1,11 @@
-button_manager_r();
+if (os_type == os_windows){
 
-if (clicked == false){
+	button_manager_r();
 
-	audio_play_sound(snd_noice, 0, 0, global.default_volume, undefined, 1.0);
+	if (clicked == false){
 
-};
+		audio_play_sound(snd_noice, 0, 0, global.default_volume, undefined, 1.0);
+
+	};
+
+}

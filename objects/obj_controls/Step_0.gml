@@ -1,5 +1,3 @@
-//window_set_cursor(cr_none);
-
 if (keyboard_check_pressed(vk_f4) && fullscreen = true){
 	
 	window_set_fullscreen(false);
@@ -19,6 +17,23 @@ if (keyboard_check_pressed(vk_f5)){
 
 }
 
+if (keyboard_check_pressed(vk_escape)){
+
+	escape = true;
+	
+	alarm_set(1, 60);
+	
+	show_quitting = true;
+	
+
+} else if (keyboard_check_released(vk_escape)){
+
+	escape = false;
+	
+	show_quitting = false;
+
+}
+
 var current_room = room;
 
 if (current_room == rm_nameing){
@@ -33,24 +48,12 @@ if (current_room == rm_nameing){
 
 	if (keyboard_check_pressed(vk_subtract) && global.volume >= 0.1){
 
-		global.volume -= 0.1;
-		volume_value -= 10;
-		show_volume = true;
-		alarm_set(0, 30);
-		
-		audio_master_gain(global.volume);
-		audio_play_sound(snd_noice, 0, 0, 0.5, undefined, 1.0);
+		volume_down();
 	
 	}
 	else if (keyboard_check_pressed(vk_add)){
 
-		global.volume += 0.1;
-		volume_value += 10;
-		show_volume = true;
-		alarm_set(0, 30);
-		
-		audio_master_gain(global.volume);
-		audio_play_sound(snd_noice, 0, 0, 0.5, undefined, 1.0);
+		volume_up();
 	
 	}
 
@@ -62,13 +65,13 @@ if (room = rm_game){
 	
 		if (keyboard_check_pressed(ord("R"))){
 		
-			audio_play_sound(snd_noice, 0, 0, global.volume, undefined, 1.0);
+			audio_play_sound(snd_noice, 0, 0, global.default_volume, undefined, 1.0);
 	
 			}
 	
 		if (keyboard_check_pressed(vk_tab)){
 	
-			audio_play_sound(snd_noice, 0, 0, global.volume, undefined, 1.0);
+			audio_play_sound(snd_noice, 0, 0, global.default_volume, undefined, 1.0);
 
 		}
 	

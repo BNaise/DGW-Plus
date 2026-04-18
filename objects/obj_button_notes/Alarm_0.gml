@@ -4,6 +4,6 @@ global.in_notes = true;
 
 global.writable2 = true;
 
-view_set_visible(1, 1);
+obj_write_notes.animate_camera = true;
 
 window_set_cursor(cr_default);

@@ -4,9 +4,7 @@ function button_manager(){
 		
 		clicked = true;
 		
-		animate_2 = true;
-		
-		animate_1 = false;
+		animate_click = true;
 		
 		color = c_grey;
 		
@@ -21,9 +19,7 @@ function button_manager(){
 		
 		clicked = false;
 		
-		animate_1 = true;
-		
-		animate_2 = false;
+		animate_click = false;
 		
 		color = c_white;
 		

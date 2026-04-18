@@ -29,10 +29,12 @@ sprite_y_scale_finish = 1.4;
 sprite_x_scale = 1.25;
 sprite_y_scale = 1.4;
 
-interpolation = 0.2;
+interpolation = 0.12;
 
-animate_1 = false;
-animate_2 = false;
-animate_3 = false;
+animate_click = false;
+
+animate_r_click = false;
+
+animate_highlight = false;
 
 global.wave_time = 0;

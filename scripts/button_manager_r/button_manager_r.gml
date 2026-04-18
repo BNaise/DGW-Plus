@@ -4,7 +4,7 @@ function button_manager_r(){
 		
 		highlighted = true;
 		
-		animate_3 = true;
+		animate_highlight = true;
 		
 		image_blend = c_yellow;
 		
@@ -15,7 +15,7 @@ function button_manager_r(){
 		
 		highlighted = false;
 		
-		animate_3 = false;
+		animate_highlight = false;
 		
 		image_blend = c_white;
 		

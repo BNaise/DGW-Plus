@@ -1,14 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_button_back_from_writing",
+  "%Name":"obj_button_options",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_button_back_from_writing",
+  "name":"obj_button_options",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_button_parent","path":"objects/obj_button_parent/obj_button_parent.yy",},"propertyId":{"name":"button_text","path":"objects/obj_button_parent/obj_button_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"< Go Back",},
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_button_parent","path":"objects/obj_button_parent/obj_button_parent.yy",},"propertyId":{"name":"button_font","path":"objects/obj_button_parent/obj_button_parent.yy",},"resource":{"name":"fnt_utdr_small","path":"fonts/fnt_utdr_small/fnt_utdr_small.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"fnt_utdr_small",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_button_parent","path":"objects/obj_button_parent/obj_button_parent.yy",},"propertyId":{"name":"button_text","path":"objects/obj_button_parent/obj_button_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Options",},
   ],
   "parent":{
     "name":"buttons",
