@@ -10,8 +10,11 @@ if (global.player_card_pressed){
 			
 			global.player_card_pressed = false;
 			
+			randomize();
+
+			global.rand_card_num = floor(random_range(0, 49 + 1));
+			
 			obj_player_card.dicition = global.rand_card_num;
-			global.reroll = true;
 			
 			audio_play_sound(snd_select, 0, 0, global.default_volume, undefined, 1.0);
 	
@@ -46,9 +49,4 @@ if (global.player_card_pressed){
 
 	}
 	
-}
-else {
-
-	global.reroll = false;
-
 }

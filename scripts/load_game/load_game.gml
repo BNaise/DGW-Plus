@@ -11,6 +11,8 @@ function load_game(){
 	global.no_music = ini_read_real("options", "no_music", 0);
 	
 	global.named = ini_read_real("options", "named", 0);
+	
+	obj_controls.fullscreen = ini_read_real("options", "fullscreen", 0);
 
 	ini_close();
 

@@ -1,5 +1,3 @@
-global.reroll = false;
-
 randomize();
 global.rand_card_num = floor(random_range(0, 49 + 1));
 

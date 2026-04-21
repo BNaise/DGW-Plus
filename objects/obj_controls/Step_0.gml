@@ -1,13 +1,22 @@
 if (keyboard_check_pressed(vk_f4) && fullscreen = true){
 	
-	window_set_fullscreen(false);
 	fullscreen = false;
 	
 }
 else if (keyboard_check_pressed(vk_f4) && fullscreen = false){
 	
-	window_set_fullscreen(true);
 	fullscreen = true;
+	
+}
+
+if (fullscreen = true){
+	
+	window_set_fullscreen(true);
+	
+}
+else if (fullscreen = false){
+	
+	window_set_fullscreen(false);
 	
 }
 

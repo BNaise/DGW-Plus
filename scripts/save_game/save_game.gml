@@ -11,6 +11,8 @@ function save_game(){
 	ini_write_real("options", "no_music", global.no_music);
 	
 	ini_write_real("options", "named", global.named);
+	
+	ini_write_real("options", "fullscreen", obj_controls.fullscreen);
 
 	ini_close();
 
