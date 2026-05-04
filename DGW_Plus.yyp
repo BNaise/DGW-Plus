@@ -56,6 +56,7 @@
     {"id":{"name":"obj_button_highlight","path":"objects/obj_button_highlight/obj_button_highlight.yy",},},
     {"id":{"name":"obj_button_ins","path":"objects/obj_button_ins/obj_button_ins.yy",},},
     {"id":{"name":"obj_button_music_change","path":"objects/obj_button_music_change/obj_button_music_change.yy",},},
+    {"id":{"name":"obj_button_music_custom","path":"objects/obj_button_music_custom/obj_button_music_custom.yy",},},
     {"id":{"name":"obj_button_no_music","path":"objects/obj_button_no_music/obj_button_no_music.yy",},},
     {"id":{"name":"obj_button_notes","path":"objects/obj_button_notes/obj_button_notes.yy",},},
     {"id":{"name":"obj_button_options","path":"objects/obj_button_options/obj_button_options.yy",},},

@@ -31,6 +31,7 @@
     {"name":"obj_button_highlight","order":24,"path":"objects/obj_button_highlight/obj_button_highlight.yy",},
     {"name":"obj_button_ins","order":4,"path":"objects/obj_button_ins/obj_button_ins.yy",},
     {"name":"obj_button_music_change","order":22,"path":"objects/obj_button_music_change/obj_button_music_change.yy",},
+    {"name":"obj_button_music_custom","order":27,"path":"objects/obj_button_music_custom/obj_button_music_custom.yy",},
     {"name":"obj_button_no_music","order":23,"path":"objects/obj_button_no_music/obj_button_no_music.yy",},
     {"name":"obj_button_notes","order":5,"path":"objects/obj_button_notes/obj_button_notes.yy",},
     {"name":"obj_button_options","order":25,"path":"objects/obj_button_options/obj_button_options.yy",},

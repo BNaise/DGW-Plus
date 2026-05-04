@@ -14,6 +14,7 @@
     {"name":"inst_4E83D29A","path":"rooms/rm_change_music/rm_change_music.yy",},
     {"name":"inst_1DEF48C","path":"rooms/rm_change_music/rm_change_music.yy",},
     {"name":"inst_51043A1A","path":"rooms/rm_change_music/rm_change_music.yy",},
+    {"name":"inst_133B5B9C","path":"rooms/rm_change_music/rm_change_music.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -50,6 +51,7 @@
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_button_parent","path":"objects/obj_button_parent/obj_button_parent.yy",},"propertyId":{"name":"button_font","path":"objects/obj_button_parent/obj_button_parent.yy",},"resource":{"name":"fnt_utdr_small","path":"fonts/fnt_utdr_small/fnt_utdr_small.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"fnt_utdr_small",},
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_button_music_change","path":"objects/obj_button_music_change/obj_button_music_change.yy",},"propertyId":{"name":"button_no","path":"objects/obj_button_music_change/obj_button_music_change.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"5",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":640.0,"y":640.0,},
+        {"$GMRInstance":"v4","%Name":"inst_133B5B9C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_133B5B9C","objectId":{"name":"obj_button_music_custom","path":"objects/obj_button_music_custom/obj_button_music_custom.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1024.0,"y":256.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Assets_1","assets":[
         {"$GMRSpriteGraphic":"v1","%Name":"graphic_614499A7_3","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_614499A7_3","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":9.216216,"scaleY":6.12,"spriteId":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},"x":0.0,"y":768.0,},
