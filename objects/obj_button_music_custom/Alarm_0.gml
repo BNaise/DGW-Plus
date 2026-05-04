@@ -1,18 +1,16 @@
 event_inherited();
 
-obj_music.play_music = true;
-global.no_music = false;
+if (obj_controls.fullscreen){
 
-var file = get_open_filename("Audio Files|*mp3;*.wav;*.ogg", "");
+	// Do nothing
 
-if (file != ""){
+} else {
 
-	my_sound = audio_create_stream(file);
+	obj_music.play_music = true;
+	global.no_music = false;
 
-}
+	global.custom_music = true;
 
-if (my_sound != -1){
-	
-	global.music = my_sound;
-	
-}
+	global.custom_music_file = get_open_filename("*.ogg", "");
+
+};

@@ -6,6 +6,30 @@ if (play_music){
 	
 	play_music = false;
 	
+	if (global.custom_music){
+	
+		if (global.custom_music_file != ""){
+
+			my_sound = audio_create_stream(global.custom_music_file);
+
+		} else {
+		
+			my_sound = global.music;
+			
+		}
+		
+	}
+	
+	if (!os_type == os_android){
+	
+		if (my_sound != -1){
+	
+			global.music = my_sound;
+	
+		}
+	
+	}
+	
 	if (!global.no_music){
 	
 		audio_play_sound(global.music, 0, true, global.default_volume, undefined, 1.0);

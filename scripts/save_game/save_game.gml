@@ -13,6 +13,10 @@ function save_game(){
 	ini_write_real("options", "named", global.named);
 	
 	ini_write_real("options", "fullscreen", obj_controls.fullscreen);
+	
+	ini_write_real("options", "custom_music", global.custom_music);
+	
+	ini_write_string("options", "custom_music_file", global.custom_music_file);
 
 	ini_close();
 

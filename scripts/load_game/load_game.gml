@@ -13,6 +13,10 @@ function load_game(){
 	global.named = ini_read_real("options", "named", 0);
 	
 	obj_controls.fullscreen = ini_read_real("options", "fullscreen", 0);
+	
+	global.custom_music = ini_read_real("options", "custom_music", 0);
+	
+	global.custom_music_file = ini_read_string("options", "custom_music_file", "");
 
 	ini_close();
 
