@@ -20,7 +20,7 @@ if (play_music){
 		
 	}
 	
-	if (!os_type == os_android){
+	if (os_type == os_windows){
 	
 		if (my_sound != -1){
 	
