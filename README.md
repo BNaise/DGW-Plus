@@ -1,6 +1,6 @@
 ### DGW Plus
 
-An enhanced version of Deltarune Guess Who with support for custom games, multiple character sets, and Android devices.
+An "enhanced" version of Deltarune Guess Who with support for custom games, multiple character sets, and Android devices.
 
 ---
 
