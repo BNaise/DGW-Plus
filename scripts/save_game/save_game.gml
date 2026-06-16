@@ -1,7 +1,7 @@
 function save_game(){
-
+	
 	ini_open("save.txt")
-
+	
 	ini_write_real("options", "volume", global.volume);
 	
 	ini_write_real("options", "music", global.music);

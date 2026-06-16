@@ -6,11 +6,15 @@ if (obj_controls.fullscreen){
 
 } else {
 
-	obj_music.play_music = true;
+	obj_custom_music.play_custom_music = true;
 	global.no_music = false;
 
 	global.custom_music = true;
-
-	global.custom_music_file = get_open_filename("*.ogg", "");
+	
+	if (os_type == os_windows){
+	
+		global.custom_music_file = get_open_filename("*.ogg", "");
+	
+	}
 
 };
