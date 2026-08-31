@@ -6,6 +6,8 @@ obj_controls.font_much_small = fnt_mc_much_small;
 obj_controls.font_main_small = fnt_mc_main_small;
 obj_controls.font_small_gaped = fnt_mc_small_gaped;
 
+global.roster = "minecraft"
+
 global.chara_names = [
 "Sheep",
 "Cow",

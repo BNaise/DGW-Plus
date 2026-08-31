@@ -1,0 +1,60 @@
+event_inherited();
+
+global.spr_cards = spr_cards_freaks;
+
+global.roster = "freaks"
+
+global.chara_names = [
+    "W. D. Gaster",
+    "Goner Kid",
+    "Ficus Licker",
+    "Donut Guy",
+    "Clam Guy",
+    "Clam Girl",
+    "Suzy",
+    "Snowdin House Owner",
+    "Lemon Bread",
+    "Reaper Bird",
+    "Endogeny",
+    "Memory Head",
+    "Normal NPC",
+    "Rainy",
+    "Koody",
+    "Starwalker Bird",
+    "Mousemillian",
+    "Purple Guy",
+    "Malius",
+    "Milk Looker",
+    "Age Old Hermit",
+    "Bunny Shadowguy",
+    "Tao",
+    "Ice-E",
+    "Nightmare",
+    "Hots Fireguy",
+    "Elder Puzzler",
+    "redacted",
+    "Second Voice",
+    "Vessel",
+    "THE PLAYER",
+    "\"Mike\"",
+    "Forgotten Man",
+    "Mantle Holder",
+    "Shadow Mantle",
+    "HERO_SWORD",
+    "HERO_SCARF",
+    "HERO_AXE",
+    "DEVICE_FRIEND",
+    "Titan",
+    "Titan Spawn",
+    "Jackenstein's Monster",
+    "The Angel",
+    "Sound of Justice",
+    "Pipis",
+    "Ms. Pipis",
+    "Lancer's Bike",
+    "Chef Lancer",
+    "Mr. Generosity",
+    "Mr. Society"
+];
+
+room_goto(rm_game);

@@ -1,0 +1,60 @@
+event_inherited();
+
+global.spr_cards = spr_cards_deltarune_chap_5;
+
+global.roster = "deltarune_chap_5"
+
+global.chara_names = [
+    "Kris",
+    "Susie",
+    "Noelle",
+    "Berdly",
+    "Catti",
+    "Jockington",
+    "Rudy",
+    "Carol",
+    "Dess",
+    "Toriel",
+    "Sans",
+    "Undyne",
+    "Alphys",
+    "Asgore",
+    "Alvin",
+    "Pizzapants",
+    "Ralsei",
+    "Lancer",
+    "Seam",
+    "Jevil",
+    "Final Starwalker",
+    "Rouxls kaard",
+    "King",
+    "Queen",
+    "Nubert",
+    "Swatch",
+    "Spamton",
+    "Tasque Manager",
+    "Mr. Tenna",
+    "Lanino",
+    "Elnina",
+    "Ramb",
+    "Shadow Mantle",
+    "Roaring Knight",
+    "Old man",
+    "Jackenstien",
+    "Miss Mizzle",
+    "Small Mike",
+    "Pluey",
+    "Cowboy Mike",
+    "Flowery",
+    "Aqua",
+    "Seth",
+    "Yellow",
+    "Blue",
+    "Green",
+    "Orange",
+    "Pink",
+    "Forgotten Man",
+    "Annoying dog"
+];
+
+room_goto(rm_game);

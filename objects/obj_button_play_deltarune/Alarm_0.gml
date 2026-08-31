@@ -2,6 +2,8 @@ event_inherited();
 
 global.spr_cards = spr_cards_deltarune;
 
+global.roster = "deltarune"
+
 global.chara_names = [
 "Kris",
 "Susie",

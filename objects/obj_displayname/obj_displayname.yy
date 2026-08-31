@@ -6,8 +6,8 @@
   "name":"obj_displayname",
   "overriddenProperties":[
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_displayname_parent","path":"objects/obj_displayname_parent/obj_displayname_parent.yy",},"propertyId":{"name":"display_name_font","path":"objects/obj_displayname_parent/obj_displayname_parent.yy",},"resource":{"name":"fnt_utdr_small","path":"fonts/fnt_utdr_small/fnt_utdr_small.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"fnt_utdr_small",},
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_displayname_parent","path":"objects/obj_displayname_parent/obj_displayname_parent.yy",},"propertyId":{"name":"display_name_x","path":"objects/obj_displayname_parent/obj_displayname_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"234",},
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_displayname_parent","path":"objects/obj_displayname_parent/obj_displayname_parent.yy",},"propertyId":{"name":"display_name_y","path":"objects/obj_displayname_parent/obj_displayname_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"116",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_displayname_parent","path":"objects/obj_displayname_parent/obj_displayname_parent.yy",},"propertyId":{"name":"display_name_x","path":"objects/obj_displayname_parent/obj_displayname_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"256",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_displayname_parent","path":"objects/obj_displayname_parent/obj_displayname_parent.yy",},"propertyId":{"name":"display_name_y","path":"objects/obj_displayname_parent/obj_displayname_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"224",},
   ],
   "parent":{
     "name":"objects",

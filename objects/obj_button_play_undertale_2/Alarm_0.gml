@@ -1,0 +1,60 @@
+event_inherited();
+
+global.spr_cards = spr_cards_undertale_2;
+
+global.roster = "undertale_2"
+
+global.chara_names = [
+    "Frisk",
+    "Flowey",
+    "Torial",
+    "Napstablook",
+    "Froggit",
+    "Vegetoid",
+    "Sans",
+    "Papyrus",
+    "Snowdrake",
+    "Doggo",
+    "Lesser dog",
+    "Dogaressa",
+    "Dogamy",
+    "Greater Dog",
+    "Jerry",
+    "Nice Cream Guy",
+    "Glyde",
+    "Grillby",
+    "Politics bear",
+    "QC",
+    "Monster Kid",
+    "Undyne",
+    "Mad Mewmew",
+    "Gerson",
+    "Temmie",
+    "Bob",
+    "Aaron",
+    "Shyren",
+    "Woshua",
+    "River Person",
+    "RG 01",
+    "RG 02",
+    "Alphys",
+    "Mettaton",
+    "Vulkin",
+    "Tsunderplane",
+    "Pyrope",
+    "Muffet",
+    "Bratty",
+    "Catty",
+    "Burgerpants",
+    "Heats Flamesman",
+    "Final Froggit",
+    "Whimsalot",
+    "Astigmatism",
+    "Asgore",
+    "Asriel",
+    "Fallen Human",
+    "W. D. Gaster",
+    "Annoying dog"
+];
+
+room_goto(rm_game);

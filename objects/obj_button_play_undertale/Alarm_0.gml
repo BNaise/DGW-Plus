@@ -2,6 +2,8 @@ event_inherited();
 
 global.spr_cards = spr_cards_undertale;
 
+global.roster = "undertale"
+
 global.chara_names = [
 "Frisk",
 "Chara",

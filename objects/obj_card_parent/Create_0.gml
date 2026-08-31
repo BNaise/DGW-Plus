@@ -29,7 +29,12 @@ sprite_y_scale_finish = 1.4;
 sprite_x_scale = 1.25;
 sprite_y_scale = 1.4;
 
+card_y_start = y - 50
+card_y_finish = y + 50
+
 interpolation = 0.12;
+
+card_y_interpolation = 0.05;
 
 animate_click = false;
 

@@ -1,5 +1,7 @@
 fullscreen = false;
 
+global.roster = "none"
+
 escape = false;
 
 show_quitting = false;

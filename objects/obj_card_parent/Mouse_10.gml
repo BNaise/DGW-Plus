@@ -18,3 +18,5 @@ if (obj_button_choose.choice){
 	obj_player_card.chosen_num = card_num;
 
 };
+
+y = lerp(y, card_y_start, card_y_interpolation);

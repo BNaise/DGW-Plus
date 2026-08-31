@@ -1,3 +1,6 @@
+// Inherit the parent event
+event_inherited();
+
 show_controls = false;
 
 text_y_position = room_height + 30;

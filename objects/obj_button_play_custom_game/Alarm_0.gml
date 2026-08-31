@@ -1,5 +1,7 @@
 event_inherited();
 
+global.roster = "custom"
+
 switch (custom_game_no){
 
 	case 01:
